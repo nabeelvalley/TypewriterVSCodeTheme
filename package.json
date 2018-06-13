@@ -4,6 +4,11 @@
     "description": "Typewriter style theme",
     "version": "0.0.1",
     "publisher": "NabeelValley",
+  "icon": "icon.png",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/nabeelvalley/Typewriter.git"
+    },
     "engines": {
         "vscode": "^1.24.0"
     },

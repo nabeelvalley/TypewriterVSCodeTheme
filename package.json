@@ -20,7 +20,12 @@
             {
                 "label": "Typewriter",
                 "uiTheme": "vs",
-                "path": "./themes/Typewriter-color-theme.json"
+                "path": "./themes/Typewriter-Print.json"
+            },
+            {
+                "label": "Typewriter Notebook",
+                "uiTheme": "vs",
+                "path": "./themes/Typewriter-Notes.json"
             }
         ]
     }

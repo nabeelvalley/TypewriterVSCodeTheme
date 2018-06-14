@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Typewriter",
+                "label": "Typewriter Print",
                 "uiTheme": "vs",
                 "path": "./themes/Typewriter-Print.json"
             },
@@ -26,6 +26,11 @@
                 "label": "Typewriter Notebook",
                 "uiTheme": "vs",
                 "path": "./themes/Typewriter-Notes.json"
+            },
+            {
+                "label": "Typewriter Print BW",
+                "uiTheme": "vs",
+                "path": "./themes/Typewriter-PrintBW.json"
             }
         ]
     }

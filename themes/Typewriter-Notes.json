@@ -170,12 +170,10 @@
 		{
 			"name": "Language Constants",
 			"scope": [
-				"constant.language",
-				"support.constant",
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#283593"
+				"foreground": "#aaaaaa"
 			}
 		},
 		{

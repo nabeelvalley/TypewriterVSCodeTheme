@@ -1,9 +1,14 @@
 # Typewriter Theme
 
-A clean, simple ink-on-paper style theme, includes a theme with black text and a theme with blue.
+A clean, simple ink-on-paper style theme, includes the following:
 
-## Screenshot
+## Typewriter Print
+![](Print.png)
 
-![](screenshot.png)
+## Typewriter Print BW
+![](PrintBW.png)
+
+## Typewriter Notebook
+![](Notebook.png)
 
 **Enjoy!**

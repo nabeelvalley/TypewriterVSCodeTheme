@@ -1,37 +1,40 @@
 {
-    "name": "typewriter",
-    "displayName": "Typewriter",
-    "description": "Typewriter style theme",
-    "version": "1.0.1",
-    "publisher": "NabeelValley",
+  "name": "typewriter",
+  "displayName": "Typewriter",
+  "description": "Typewriter style theme",
+  "version": "1.0.1",
+  "publisher": "NabeelValley",
   "icon": "icon.png",
   "repository": {
-        "type": "git",
-        "url": "https://github.com/nabeelvalley/TypewriterVSCodeTheme.git"
-    },
-    "engines": {
-        "vscode": "^1.24.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Typewriter Print",
-                "uiTheme": "vs",
-                "path": "./themes/Typewriter-Print.json"
-            },
-            {
-                "label": "Typewriter Notebook",
-                "uiTheme": "vs",
-                "path": "./themes/Typewriter-Notes.json"
-            },
-            {
-                "label": "Typewriter Print BW",
-                "uiTheme": "vs",
-                "path": "./themes/Typewriter-PrintBW.json"
-            }
-        ]
-    }
+    "type": "git",
+    "url": "https://github.com/nabeelvalley/TypewriterVSCodeTheme.git"
+  },
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Typewriter Print",
+        "uiTheme": "vs",
+        "path": "./themes/Typewriter-Print.json"
+      },
+      {
+        "label": "Typewriter Print Dark",
+        "uiTheme": "vs",
+        "path": "./themes/Typewriter-Print-Dark.json"
+      },
+      {
+        "label": "Typewriter Notebook",
+        "uiTheme": "vs",
+        "path": "./themes/Typewriter-Notes.json"
+      },
+      {
+        "label": "Typewriter Print BW",
+        "uiTheme": "vs",
+        "path": "./themes/Typewriter-PrintBW.json"
+      }
+    ]
+  }
 }

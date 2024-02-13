@@ -12,7 +12,9 @@
   "engines": {
     "vscode": "^1.24.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -21,9 +23,9 @@
         "path": "./themes/Typewriter-Print.json"
       },
       {
-        "label": "Typewriter Print Dark",
-        "uiTheme": "vs",
-        "path": "./themes/Typewriter-Print-Dark.json"
+        "label": "Typewriter Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Typewriter-Dark.json"
       },
       {
         "label": "Typewriter Notebook",

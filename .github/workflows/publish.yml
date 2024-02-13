@@ -1,7 +1,7 @@
 on:
-  push:
-    tags:
-      - "*"
+  workflow_dispatch:
+  release:
+    types: [created]
 
 name: Deploy Extension
 jobs:
